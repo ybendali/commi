@@ -3,7 +3,6 @@ fixes #1
 	yasmine2
 	soumia
 	salam yasmine
-	git aaelamdde 
-	
-salam sisou 
-contribution
+	git aslam
+	une constribution
+CNTRIBUTION DE YASMINE
